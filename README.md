@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6740a1ee5434bf319a423a26?variant=dark)](https://roadmap.sh)
+
 <!--
 **e-pallad/e-pallad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
