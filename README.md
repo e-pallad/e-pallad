@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a Web Engineer passionate about exploring cutt
 
 ## 🌱 Currently Learning
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6740a1ee5434bf319a423a26?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6740a1ee5434bf319a423a26?variant=dark)](https://roadmap.sh)
 
 ---
 <!--
