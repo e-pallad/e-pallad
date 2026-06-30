@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Eric!
 
-Welcome to my GitHub profile! I'm a Web Engineer passionate about exploring cutting-edge technologies and solving problems with data.
+Full-Stack Developer (JavaScript/TypeScript, React, Node.js) with an unusual path: I started in a call center, worked my way through web development, systems administration, and technical support, and spent the last few years architecting enterprise integrations (SSO, SCIM, REST APIs) between SaaS platforms and systems like Microsoft, SAP, Workday, and Okta.
+
+That background means I don't just write code — I understand the systems it has to talk to in production, enterprise environments.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS, PHP
-- **Frameworks**: React
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, Kubernetes
-- **Cloud**: AWS, Azure
+- **Languages**: JavaScript, TypeScript, PHP, HTML5, CSS3
+- **Frontend**: React, Ant Design
+- **Backend**: Node.js, REST APIs
+- **Databases**: SQL, MSSQL, MongoDB
+- **Tools**: Git, Docker, Jira, Bitbucket, Postman
 
 ---
 <!--
@@ -41,7 +43,7 @@ Welcome to my GitHub profile! I'm a Web Engineer passionate about exploring cutt
 
 ## 🌱 Currently Learning
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6740a1ee5434bf319a423a26?variant=dark)](https://roadmap.sh)
+Deepening my full-stack skill set toward production-grade React/Next.js — see adhs-learning below for the structured plan I'm following.
 
 ---
 <!--
@@ -60,7 +62,9 @@ Welcome to my GitHub profile! I'm a Web Engineer passionate about exploring cutt
 -->
 ### 🌟 Thank you for visiting!
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech, open-source, or anything else!
+Open to full-stack developer roles — remote, ideally B2B/SaaS where enterprise integration context is an asset, not just a buzzword.
+
+Thanks for stopping by — feel free to look around or reach out.
 
 [![GitHub Followers](https://img.shields.io/github/followers/e-pallad?label=Follow%20Me&style=social)](https://github.com/e-pallad)
 [![GitHub Stars](https://img.shields.io/github/stars/e-pallad?label=Star%20My%20Repos&style=social)](https://github.com/e-pallad)
