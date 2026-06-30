@@ -2,7 +2,7 @@
 
 Full-Stack Developer (JavaScript/TypeScript, React, Node.js) with an unusual path: I started in a call center, worked my way through web development, systems administration, and technical support, and spent the last few years architecting enterprise integrations (SSO, SCIM, REST APIs) between SaaS platforms and systems like Microsoft, SAP, Workday, and Okta.
 
-That background means I don't just write code — I understand the systems it has to talk to in production, enterprise environments.
+That background means I don't just write code, I understand the systems it has to talk to in production, enterprise environments.
 
 ---
 
@@ -58,9 +58,9 @@ See [adhs-learning](https://github.com/e-pallad/adhs-learning) below for the str
 -->
 ### 🌟 Thank you for visiting!
 
-Open to full-stack developer roles — remote, ideally B2B/SaaS where enterprise integration context is an asset, not just a buzzword.
+Open to full-stack developer roles. Remote, ideally B2B/SaaS where enterprise integration context is an asset, not just a buzzword.
 
-Thanks for stopping by — feel free to look around or reach out.
+Thanks for stopping by. Feel free to look around or reach out.
 
 [![GitHub Followers](https://img.shields.io/github/followers/e-pallad?label=Follow%20Me&style=social)](https://github.com/e-pallad)
 [![GitHub Stars](https://img.shields.io/github/stars/e-pallad?label=Star%20My%20Repos&style=social)](https://github.com/e-pallad)
