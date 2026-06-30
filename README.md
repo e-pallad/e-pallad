@@ -26,11 +26,6 @@ That background means I don't just write code — I understand the systems it ha
 
 ---
 -->
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-pallad&show_icons=true&theme=radical)
-
----
 
 ## 🔗 Let's Connect!
 <!--
@@ -43,7 +38,8 @@ That background means I don't just write code — I understand the systems it ha
 
 ## 🌱 Currently Learning
 
-Deepening my full-stack skill set toward production-grade React/Next.js — see adhs-learning below for the structured plan I'm following.
+Deepening my full-stack skill set toward production-grade React/Next.js. 
+See [adhs-learning](https://github.com/e-pallad/adhs-learning) below for the structured plan I'm following.
 
 ---
 <!--
