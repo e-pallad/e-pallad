@@ -1,81 +1,56 @@
-# 👋 Hi, I'm Eric!
+# Hi, I'm Eric
 
-Full-Stack Developer (JavaScript/TypeScript, React, Node.js) with an unusual path: I started in a call center, worked my way through web development, systems administration, and technical support, and spent the last few years architecting enterprise integrations (SSO, SCIM, REST APIs) between SaaS platforms and systems like Microsoft, SAP, Workday, and Okta.
+**Fullstack Developer · React · TypeScript · Node.js · Next.js**
+Based in Saxony, Germany · working remote · freelancing as [devfluent](https://devfluent.de)
 
-That background means I don't just write code, I understand the systems it has to talk to in production, enterprise environments.
+I took the long way into development. Call center, then web development, then sysadmin and 2nd/3rd level support, then five years at Staffbase building integrations between a SaaS platform and Microsoft 365, SAP, Workday, Okta and ADP.
 
----
+That path shapes how I build. When I ship a feature, I'm already thinking about the SSO config, the API rate limit, the customer's IT team, and whoever gets paged when it breaks at 2 a.m. (usually that used to be me).
 
-## 🛠️ Technologies & Tools
-
-- **Languages**: JavaScript, TypeScript, PHP, HTML5, CSS3
-- **Frontend**: React, Ant Design
-- **Backend**: Node.js, REST APIs
-- **Databases**: SQL, MSSQL, MongoDB
-- **Tools**: Git, Docker, Jira, Bitbucket, Postman
-
----
-<!--
-## 🌟 My Highlights
-
-- 🔧 **Open Source Contributions**: [List notable projects or organizations you’ve contributed to.]
-- 🚀 **Projects**: 
-  - [Project Name 1](link) - Brief description of what it does or its impact.
-  - [Project Name 2](link) - Another project highlight.
-- 🏆 **Achievements**: [Hackathons won, certifications, awards, etc.]
-
----
--->
-
-## 🔗 Let's Connect!
-<!--
-- **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
--->
-- **LinkedIn**: [linkedin.com/in/eric-pallad](https://linkedin.com/in/eric-pallad)
-- **Email**: [eric.pallad@devfluent.de](mailto:eric.pallad@devfluent.de)
+These days I build React/Next.js products for clients and for myself, and I like putting AI to work where it actually saves someone time.
 
 ---
 
-## 🌱 Currently Learning
+## What I'm building
 
-Deepening my full-stack skill set toward production-grade React/Next.js. 
-See [adhs-learning](https://github.com/e-pallad/adhs-learning) below for the structured plan I'm following.
+**[Galactic Code](https://github.com/e-pallad/galactic-code)** · a space-themed RPG where learning to code feels like logging into a game
+Missions, XP ranks, streaks, fleet battles and AI study recommendations. Built solo, end to end.
+`Next.js 15` `TypeScript` `PostgreSQL (Neon)` `Drizzle` `Clerk` `Upstash Redis` `Resend` `Anthropic SDK` `Vercel`
+
+**[FlatCheck](https://github.com/e-pallad/rate-your-flat)** · tenants rate and review rental flats
+Six rating dimensions, image uploads, map view, four roles (renter, landlord, moderator, admin) with their own dashboards, German and English.
+`Next.js` `NextAuth` `Tailwind` `shadcn/ui` `Leaflet`
+
+**[Devfluent Tracker](https://github.com/e-pallad/adhs-learning)** · a learning tracker for developers who start courses and never finish them
+`Next.js 16` `Prisma` `Supabase` `Tailwind v4`
+
+**[Book Writer MCP (Docker)](https://github.com/e-pallad/book-writer-mcp-docker)** · an MCP server that gives Claude a full toolkit for writing books, packaged to self-host
+`TypeScript` `MCP` `Docker`
+
+**[Product API](https://github.com/e-pallad/testcase-recyclingmonitor)** · small Laravel REST API with optimistic concurrency and a concurrency test
+`PHP` `Laravel`
 
 ---
-<!--
-## 🎯 Goals
 
-- [State a few of your goals, e.g., contributing to impactful open-source projects, building innovative apps, learning advanced AI concepts, etc.]
+## Stack
+
+**Daily:** TypeScript, React, Next.js, Node.js, PostgreSQL, Drizzle, Prisma, Tailwind, Vercel
+**Integrations:** REST, OpenAPI, SSO/SAML, SCIM, OAuth2, Microsoft 365, SAP, Workday, Okta
+**Also at home in:** PHP/Laravel, Docker, Nginx, Playwright, MongoDB, Linux, Windows Server
+**Currently exploring:** Go, AI agents and MCP servers
+
+---
+
+## A few things I'm proud of
+
+- Won an internal Staffbase hackathon with my team and led another one
+- Wrote the integration guides enterprise customers used to connect their HR and identity systems
+- Built and ship Galactic Code as a one-person team, from data model to deployment
 
 ---
 
-## 💬 Fun Facts
+## Let's talk
 
-- [Share a couple of interesting facts about yourself, e.g., hobbies, languages spoken, etc.]
-- Example: "When I’m not coding, you’ll find me hiking or experimenting with coffee brewing techniques!"
+Open to **remote fullstack roles** and **freelance React/Next.js projects**, especially B2B SaaS where integrations are part of the job.
 
----
--->
-### 🌟 Thank you for visiting!
-
-Open to full-stack developer roles. Remote, ideally B2B/SaaS where enterprise integration context is an asset, not just a buzzword.
-
-Thanks for stopping by. Feel free to look around or reach out.
-
-[![GitHub Followers](https://img.shields.io/github/followers/e-pallad?label=Follow%20Me&style=social)](https://github.com/e-pallad)
-[![GitHub Stars](https://img.shields.io/github/stars/e-pallad?label=Star%20My%20Repos&style=social)](https://github.com/e-pallad)
-
-<!--
-**e-pallad/e-pallad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[eric.pallad@devfluent.de](mailto:eric.pallad@devfluent.de) · [LinkedIn](https://linkedin.com/in/eric-pallad) · [devfluent.de](https://devfluent.de)
